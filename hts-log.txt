@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Feb 2022 14:52:08 at https://instafollowers.pro +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://instafollowers.pro -O1 "C:\Users\kirbt\Work\CPA\Instagram Followers Generator\InstaFollowers.Pro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:52:36	Error: 	"Not Found" (404) at link https://instafollowers.pro/free-followers/img/favicon.ico (from https://instafollowers.pro/free-followers/)
+14:52:59	Error: 	"Not Found" (404) at link https://instafollowers.pro/assets/img/OnlyFans-Unlock-Premium-32x32.png (from https://instafollowers.pro/terms-of-use.html)
+14:52:59	Error: 	"Not Found" (404) at link https://instafollowers.pro/""; (from https://instafollowers.pro/s_include.php?id=813241)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 53 links scanned, 49 files written (15512091 bytes overall) [13669170 bytes received at 268022 bytes/sec], 2552883 bytes transferred using HTTP compression in 35 files, ratio 25%, 5.3 requests per connection
+(3 errors, 0 warnings, 0 messages)
